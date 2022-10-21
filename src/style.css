@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: darkslategrey;
+}
+
+h1 {
+  color: antiquewhite;
+}
+
+.excuse-exercise {
+  padding-top: 15%;
+}
